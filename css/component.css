@@ -47,7 +47,7 @@ html, body { height: 100%; }
 .pt-page h1 {
 	position: absolute;
 	font-weight: 300;
-	font-size: 4.4em;
+	font-size: 7em;
 	line-height: 1;
 	letter-spacing: 6px;
 	margin: 0;
@@ -55,7 +55,6 @@ html, body { height: 100%; }
 	width: 100%;
 	text-align: center;
 	text-transform: uppercase;
-	word-spacing: -0.3em;
 }
 
 .pt-page h1 span {
@@ -75,7 +74,8 @@ html, body { height: 100%; }
 
 .pt-page-1 {
 	/*background: #0ac2d2;*/
-	background-image: ;
+	background-size:100%;
+	background-image: url('images/section_homepage_bg_2.png');
 }
 
 .pt-page-2 {
