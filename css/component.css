@@ -69,17 +69,20 @@ html, body { height: 100%; }
 }
 
 .pt-page h1 strong {
-	color: rgba(0,0,0,0.1);
+	color: rgba(0,0,0,0.65);
+	font-size: 50%;
+	top: 300px;
 }
 
 .pt-page-1 {
 	/*background: #0ac2d2;*/
-	background-size:100%;
+	background-height:"720px";
 	background-image: url('images/section_homepage_bg_2.png');
 }
 
 .pt-page-2 {
 	background: #7bb7fa;
+	background-image: url('images/queue.png');
 }
 
 .pt-page-3 {
