@@ -74,7 +74,8 @@ html, body { height: 100%; }
 }
 
 .pt-page-1 {
-	background: #0ac2d2;
+	/*background: #0ac2d2;*/
+	background-image: ;
 }
 
 .pt-page-2 {
