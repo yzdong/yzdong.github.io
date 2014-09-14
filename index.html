@@ -34,5 +34,13 @@
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 		<script src="js/jquery.dlmenu.js"></script>
 		<script src="js/pagetransitions.js"></script>
+		
+		<script>
+		$(document).keydown(function(e){
+			if (e.keyCode==32){
+                PageTransitions.nextPage(1);
+			}
+		});
+		</script>		
 	</body>
 </html>
